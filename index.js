@@ -1,0 +1,1 @@
+export { CoTransferAcceptUi } from './src/CoTransferAcceptUi.js';
